@@ -2,7 +2,6 @@
 # In[3]:
 
 # Author : Michel Benites Nascimento
-# Date   : 02/03/2018
 # Descr. : App that triggers some threads, in order to generate a CPU intensive multi threaded process.
 
 import multiprocessing as mp
